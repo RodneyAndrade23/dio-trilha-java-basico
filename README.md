@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-## Exercício de fixacão Dio Java 🤙🏾
+## Exercício de fixação Dio Java 🤙🏾
